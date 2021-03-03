@@ -1,0 +1,29 @@
+[33mcommit 822b3f248a1a1846be1235e74f056efa52431c33[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/add-gitignore[m[33m, [m[1;32madd-gitignore[m[33m)[m
+Author: HoszuAndreiAlexandru <andreihoszu2@yahoo.ro>
+Date:   Wed Mar 3 16:32:49 2021 +0200
+
+    Add .gitignore file
+
+[33mcommit bacb26c6034e2b388621e2eaad92dee6f0a31315[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HoszuAndreiAlexandru <79837301+HoszuAndreiAlexandru@users.noreply.github.com>
+Date:   Wed Mar 3 16:28:59 2021 +0200
+
+    Update exemple.py
+
+[33mcommit 62b73473afd4449088092b8a9f84f8a423af99b2[m
+Author: HoszuAndreiAlexandru <andreihoszu2@yahoo.ro>
+Date:   Wed Mar 3 16:26:41 2021 +0200
+
+    Update
+
+[33mcommit 9f276443ac22f86c5b785f3fbf7c18bf259ece9e[m
+Author: HoszuAndreiAlexandru <andreihoszu2@yahoo.ro>
+Date:   Wed Mar 3 16:20:10 2021 +0200
+
+    Add exemple file
+
+[33mcommit ece3d5692a09137d7f96b12024e13924d321c435[m
+Author: HoszuAndreiAlexandru <andreihoszu2@yahoo.ro>
+Date:   Wed Mar 3 16:15:28 2021 +0200
+
+    Add README file
